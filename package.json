@@ -1,0 +1,18 @@
+{
+  "name": "liftlog",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Lift Log - suivi de musculation",
+  "scripts": {
+    "sync": "cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.5.3",
+    "@capacitor/app": "^8.1.2",
+    "@capacitor/core": "^8.5.3",
+    "@capacitor/preferences": "^8.0.1"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^8.5.3"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "appId": "com.rayane.liftlog",
+  "appName": "Lift Log",
+  "webDir": "www",
+  "backgroundColor": "#12151a",
+  "plugins": {
+    "SystemBars": { "style": "DARK", "insetsHandling": "css" }
+  }
+}
